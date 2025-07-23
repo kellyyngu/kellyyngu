@@ -4,14 +4,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyyngu&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212" width="70%">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyyngu&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212" width="40%">
 </p>
 
 ### Languages
 
 <p align="center">
-  <img src="images/java.png" height="40">
+  <img src="images/Java.png" height="40">
   <img src="images/python.png" height="40">
   <img src="images/c.png" height="40">
   <img src="images/javascript.png" height="40">
