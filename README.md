@@ -1,8 +1,15 @@
-## Hello, I am Kelly :)
+## Hello, I am Kelly 👋
 
-- Studying Computer Science with AI at the University of Nottingham
+- 🎓 Studying Computer Science with AI at the University of Nottingham
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyyngu&langs_count=10&hide_border=true&theme=dark&layout=compact&bg_color=121212" width="70%">
+</p>
 
 ### Languages
+
 <p align="center">
   <img src="images/java.png" height="40">
   <img src="images/python.png" height="40">
@@ -12,6 +19,7 @@
 </p>
 
 ### Frontend
+
 <p align="center">
   <img src="images/html.png" height="40">
   <img src="images/CSS.png" height="40">
@@ -21,6 +29,7 @@
 </p>
 
 ### Backend & Tools
+
 <p align="center">
   <img src="images/PHP.png" height="40">
   <img src="images/MySQL.png" height="40">
