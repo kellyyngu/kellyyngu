@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello, I am Kelly :)
 
-<!--
-**kellyyngu/kellyyngu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Studying Computer Science with AI at the University of Nottingham
 
-Here are some ideas to get you started:
+### Languages
+<p align="center">
+  <img src="images/java.png" height="40">
+  <img src="images/python.png" height="40">
+  <img src="images/c.png" height="40">
+  <img src="images/javascript.png" height="40">
+  <img src="images/typescript.png" height="40">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+<p align="center">
+  <img src="images/html.png" height="40">
+  <img src="images/CSS.png" height="40">
+  <img src="images/Tailwind_CSS.png" height="40">
+  <img src="images/React.png" height="40">
+  <img src="images/Next.js.png" height="40">
+</p>
+
+### Backend & Tools
+<p align="center">
+  <img src="images/PHP.png" height="40">
+  <img src="images/MySQL.png" height="40">
+  <img src="images/git.png" height="40">
+</p>
